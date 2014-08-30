@@ -33,3 +33,5 @@ To run examples, open LXTerminal if you haven't already, change directory to whe
 `python file.py`
 
 Where *file.py* is replaced by your chosen example
+
+NOTE: There is an unknown bug ininkspill.py. When quitting the inkspill.py the restore checkpoint appears to work but after leaving and re-entering the minecraft world the game boards may return.
